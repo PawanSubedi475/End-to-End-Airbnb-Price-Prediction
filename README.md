@@ -37,7 +37,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/Airbnb-Price-Prediction.git
+     git clone https://github.com/PawanSubedi475/End-to-End-Airbnb-Price-Prediction.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -94,7 +94,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 
 ## Troubleshooting
 
-- If you encounter any issues during the installation process, Contact me at ```kalyanmurapaka274@gmail.com```
+- If you encounter any issues during the installation process, Contact me at ```pawansubedi218@gmail.com```
 
 
 # Contributing
